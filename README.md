@@ -34,6 +34,10 @@ Follow the process described in the course to `eb init` a new application and `e
 ### My endpoint 
 http://image-filter-project2-dev.eu-west-2.elasticbeanstalk.com/filteredimage?image_url=https://cdn.cnn.com/cnnnext/dam/assets/220827192221-india-skyscraper-demolition-intl-hnk-medium-tease.jpg
 
+### My github repo links
+https://github.com/mrbraimoh/image-filter-project2.git
+https://github.com/mrbraimoh/image-filter-project2
+
 ## Stand Out (Optional)
 
 ### Refactor the course RESTapi
