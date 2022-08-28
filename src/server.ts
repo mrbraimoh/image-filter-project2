@@ -32,7 +32,7 @@ import {filterImageFromURL, deleteLocalFiles} from './util/util';
 
   //! END @TODO1
 
-  app.get("/filteredimage/",async (req: Request,res: Response)=>{
+  app.get("/filteredimage/", async (req: Request,res: Response)=>{
     let {image_url}: any = req.query;
     if( image_url ) {
       filterImageFromURL(image_url).then((result)=>{
